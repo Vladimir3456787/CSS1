@@ -1,0 +1,70 @@
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+
+    color: #fff;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+body {
+    background: linear-gradient(#405fb3, #0b5abb, #412170, #c90f2e);
+}
+
+.intro {
+    width: 100%;
+    height: 100vh;
+    
+}
+
+.title {
+    padding: 10px;
+    margin-left: 100px;
+    color: #fff;
+
+    font-family: Snell Roundhand, cursive;
+}
+
+.info {
+    padding: auto;
+    margin-left: 50px;
+    color: #fff;
+
+    font-family: URW Chancery L, cursive;
+}
+
+
+li {
+    margin-top: 10px;
+}
+
+.nav {
+    font-size: 14px;
+    text-transform: uppercase;
+
+}
+
+.nav_link {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 15px;
+    position: relative;
+    
+    color: #7DE5ED;
+    text-decoration: none;
+
+    transition: color .2s linear;
+
+}
+.nav_link_cilk {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 15px;
+    position: relative;
+    
+    color: #B3FFAE;
+    text-decoration: none;
+
+    transition: color .2s linear;
+}
